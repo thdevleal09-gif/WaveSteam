@@ -1,0 +1,14 @@
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\bin\Debug\net10.0\WaveSteam.exe
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\bin\Debug\net10.0\WaveSteam.deps.json
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\bin\Debug\net10.0\WaveSteam.runtimeconfig.json
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\bin\Debug\net10.0\WaveSteam.dll
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\bin\Debug\net10.0\WaveSteam.pdb
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\obj\Debug\net10.0\WaveSteam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\obj\Debug\net10.0\WaveSteam.AssemblyInfoInputs.cache
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\obj\Debug\net10.0\WaveSteam.AssemblyInfo.cs
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\obj\Debug\net10.0\WaveSteam.csproj.CoreCompileInputs.cache
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\obj\Debug\net10.0\WaveSteam.dll
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\obj\Debug\net10.0\refint\WaveSteam.dll
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\obj\Debug\net10.0\WaveSteam.pdb
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\obj\Debug\net10.0\WaveSteam.genruntimeconfig.cache
+C:\Users\thdev\source\repos\ScreenSound\WaveStream\obj\Debug\net10.0\ref\WaveSteam.dll

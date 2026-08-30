@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|c:\\users\\thdev\\source\\repos\\screensound\\wavestream\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|solutionrelative:banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|c:\\users\\thdev\\source\\repos\\screensound\\wavestream\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|solutionrelative:podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|c:\\users\\thdev\\source\\repos\\screensound\\wavestream\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|solutionrelative:musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|c:\\users\\thdev\\source\\repos\\screensound\\wavestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|c:\\users\\thdev\\source\\repos\\screensound\\wavestream\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|solutionrelative:episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|c:\\users\\thdev\\source\\repos\\screensound\\wavestream\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E5BCA2-7FD9-E120-AD0C-E47B2F970747}|WaveSteam.csproj|solutionrelative:album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Musica.cs",
+              "RelativeDocumentMoniker": "Musica.cs",
+              "ToolTip": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Musica.cs",
+              "RelativeToolTip": "Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T18:28:28.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Album.cs",
+              "RelativeDocumentMoniker": "Album.cs",
+              "ToolTip": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Album.cs",
+              "RelativeToolTip": "Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T03:18:14.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Banda.cs",
+              "RelativeDocumentMoniker": "Banda.cs",
+              "ToolTip": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Banda.cs",
+              "RelativeToolTip": "Banda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T17:49:14.737Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Podcast.cs",
+              "RelativeDocumentMoniker": "Podcast.cs",
+              "ToolTip": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Podcast.cs",
+              "RelativeToolTip": "Podcast.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T20:25:40.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Episodio.cs",
+              "DocumentMoniker": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Episodio.cs",
+              "RelativeDocumentMoniker": "Episodio.cs",
+              "ToolTip": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Episodio.cs",
+              "RelativeToolTip": "Episodio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T19:59:37.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\thdev\\source\\repos\\ScreenSound\\WaveStream\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T03:35:45.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
